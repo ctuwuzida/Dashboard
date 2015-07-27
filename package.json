@@ -43,9 +43,5 @@
     "run-sequence": "^1.0.2",
     "through2": "^0.6.3",
     "yargs": "^3.10.0"
-  },
-  "scripts": {
-    "start": "gulp",
-    "postinstall": "bower install --config.interactive=false"
   }
 }

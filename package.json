@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Bootstrap Admin Theme + AngularJS",
   "author": "@geedmo",
+  "private": true,
   "dependencies": {},
   "devDependencies": {
     "del": "^1.1.1",

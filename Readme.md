@@ -1,5 +1,5 @@
 #Prerequisite
-node install -g gulp bower
+npm install -g gulp bower
 
 #Build
 npm install  
